@@ -1,15 +1,7 @@
 # blockless powered vite app
 
-dApps on steroids.
-
-nnApplications should be easy to build. Users should be able to power a network by using a dApp. Operators should be able to launch AVS' with ease. 
-
-This repo is a radical change on building dApplications with Network Neutral Principals. 
-
-What the f' is this?
-
-* Vite Powered Front End using Blockless Web Workers
-* Golang Powered Rest Server with a P2P Server Provider Network built in.
+* Vite Powered Front End 
+* Golang Powered Rest Server
 
 # dev
 
